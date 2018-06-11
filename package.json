@@ -1,0 +1,34 @@
+{
+  "name": "reactjs-basics",
+  "version": "1.0.0",
+  "description": "basic concepts of reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaosadi17/ReactJs-Basics.git"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "Amali Osadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaosadi17/ReactJs-Basics/issues"
+  },
+  "homepage": "https://github.com/kaosadi17/ReactJs-Basics#readme",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "webpack": "^4.12.0",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
